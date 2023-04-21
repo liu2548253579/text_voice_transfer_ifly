@@ -1,0 +1,3 @@
+APP_ID:xxxxx
+API_KEY:xxxxxxxxxx
+SECRET_KEY:xxxxxxxxxx

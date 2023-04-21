@@ -1,0 +1,5 @@
+tqdm
+keyboard
+pyaudio
+chardet
+websocket-client==0.57.0

@@ -9,7 +9,7 @@
 安装所需依赖：
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt --ignore-installed
 ```
 
 ## 2.配置科大讯飞API

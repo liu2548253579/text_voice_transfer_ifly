@@ -3,8 +3,8 @@ from audio_play import play
 from ifly_t2a import text_to_audio
 from ifly_a2t import audio_to_text,clear_text
 
-file = 'test.wav'           # 语音录制，识别文件
-synth_file = "synth.mp3"    # 语音合成文件 
+file = 'user_voice.wav'           # 语音录制，识别文件
+synth_file = "generated_voice.mp3"    # 语音合成文件 
 
 record(file)                # 录制音频 
 txt_str = audio_to_text(file)               # 语音识别

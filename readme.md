@@ -4,6 +4,8 @@
 
 确保你所处的操作系统已安装ffmpeg、python版本大于或等于3.8
 
+[ffmpeg安装教程](https://zhuanlan.zhihu.com/p/623994780)
+
 然后cd到工程目录下
 
 安装所需依赖：

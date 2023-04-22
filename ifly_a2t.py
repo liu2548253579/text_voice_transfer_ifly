@@ -191,3 +191,7 @@ def audio_to_text (audio_Path):
     ws.on_open = on_open
     ws.run_forever(sslopt={"cert_reqs": ssl.CERT_NONE})
     return Text_Content
+
+def clear_text():
+    global Text_Content
+    Text_Content = ""
